@@ -1,0 +1,18 @@
+body {
+    background-image: url("imagez/movie.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% 100%;
+}
+
+form {
+    font-family: verdana;
+    font-size: 14
+color: white;
+}
+#A2, #B2, #score, #question {
+    font-family: verdana;
+}
+#img1 {
+     width:300px;height:300px;
+}
